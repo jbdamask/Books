@@ -180,3 +180,23 @@ pg 205 - [Internal Controls](https://personalmba.com/internal-controls/)
 > Every year, the [Risk Management Association](https://www.rmahq.org/) compiles a huge amount of data and makes it easy to discover what solvent businesses of various sizes spend on marketing, sales, operations and capital in a given period of time. Banks and investors rely on RMA data to determine whether or not a business they're examinging is typical.
 
 > Industry groups can also be a useful source of data. By comparing your business's data to that of other companies in your market, you can get a better picture of how well you're performing and where your business could use improvement.
+
+### The Human Mind
+
+pg 216 - [Perceptual Control](https://personalmba.com/perceptual-control/)
+
+> People act to control their perceptions. A rock on the deck of a ship is not a control system. The rock doesn't want anything so it has nothing to control. A human being on the deck, however, wants to stay upright and will therefore take many different actions to continue to stay standing.
+
+pg 217 - [Reference Level](https://personalmba.com/reference-level/)
+
+> At the heart of every Perceptual Control system is a Reference Level - a range of perceptions that indicate the system is "under control". There are three kinds of Reference levels: set points, ranges and errors.
+ 
+> A set point is a threshold. A range is a spread of acceptable values. An error is a set point defined at zero - any perception that's not zero is out of control. For example, customer service complaints; if zero, everything is under control but if your in-box is filling with complaints you need to act.
+
+> If you want to change a behavior, you must either change the system's Reference Level or change the Environment in which the system is operating. The perceptions themselves haven't changed, but you'll no longer act to bring the perception under control because *it already is under control*.
+
+pg 221 - [Guiding Structure](https://personalmba.com/guiding-structure/)
+
+> Guiding Structure means the structure of your Environment is the largest determinant of your behavior. If you want to successfully change a behavior, *don't try to change the behavior directly*. Change the structure that influences or supports the behavior.
+
+> A great example is the "Sterile Cockpit Rule" that the FAA instituted in 1981. Most airline accidents happen below 10,000 feet; below 10,000 feet the only discussion permitted is about information directly related to the flight in progress. By eliminating distractions, accidents were reduced.
