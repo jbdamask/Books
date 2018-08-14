@@ -108,6 +108,8 @@ pg 160 - [Systemization](https://personalmba.com/systemization/)
 
 > If you can't describe what you are doing as a process, you don't know what you're doing
 
+### Finance
+
 pg 171 - [Cash Flow Statement](https://personalmba.com/cash-flow-statement/)
 
 > The cash flow statement is straightforward: it's an examination of a company's bank account over a certain period of time.
@@ -126,4 +128,55 @@ and
 
 > This looks odd: why would you ever wnant to add Liabilities and Owner's Equity? Here's why: when a business borrows money, it receives the amount of cash borrowed. That goes on the clash flow statement, and the influx of money makes it look like the business had a very good month if you don't notice it's a loan.
 
+pg 176 - [Financial Ratios](https://personalmba.com/financial-ratios/)
 
+> Comparing ratios to industry averages makes it easy to see if the company is performing like a typical company or if something is odd. They are useful for sanity-checking profit, debt, cash and efficiency. There are thousands; analysts tend to choose a small set based on the industry (it makes no sense to calculate inventory for a service business)
+
+> 1. Profitability ratios indicate he ability to generate profit. Net Profit / total assets
+> 2. Leverage ratios show how the company uses debt. Total liability / shareholder's equity ("debt-to-equity")
+> 3. Liquidity ratios indicate the ability of a business to pay its bills and can be used to see if business is sitting on cash instead of investing. "Current Ratio" - current assets / current liabilities. "Quick Ratio" - current assets minus inventory / current liabilities
+> 4. Efficiency ratios indicate how well a business is managing its inventory (either too little or too much is bad). "Day Sales Outstanding" shows how long it takes to collect the cash from sales
+
+pg 181 - [Lifetime Value](https://personalmba.com/lifetime-value/)
+
+> Is the total value of a customer's business over the lifetime of their relationship with your company.
+
+Many businesses that used to offer pay-once products now offer subscription-type services. IDEs, music, even [WiFi routers](https://www.theverge.com/circuitbreaker/2018/6/12/17416982/plume-superpod-adaptive-wifi-subscription-service-announced)
+
+pg 183 - [Allowable Acquisition Cost](https://personalmba.com/allowable-acquisition-cost/)
+
+> AAC is the marketing component of Lifetime Value. The higher the avg Lifetime Value, the more you can spend to attract a new customer.
+
+> Having a high Lifetime Value allows you to lose money on the first sale ("loss leader").
+
+> Calculation: Avg customer Lifetime Value minus Value Stream costs minus (Overhead / total customer base) * (1 - desired profit margin).
+
+> Example: $2000 (Lifetime Value over 5 years) - $500 (Value Stream) = $1500 (Revenue per customer). $500,000 (Overhead over 5 years) / 500 (number of customers) = $1000 per customer (Fixed Costs). So $1500 - $1000 = $500 in revenue before marketing expenses. If you're shooting for 60% profit margin you can afford to spend 40% of the revenue on marketing so $500 * 0.4 = $200 AAC per customer
+
+pg 184 - [Costs: Fixed and Variable](https://personalmba.com/costs-fixed-variable/)
+
+> Reductions in Fixed Costs (e.g. Overhead) Accumulate: if you can save $50/month on your phone bill this Accumulates to $600/year. 
+
+> Reductions in Variable Costs (e.g. cost of product) are Amplified by volume: if you can save $0.50 on each T-shirt you produce, you'll save $500 on every 1000 T-shirts.
+
+pg 189 - [Amortization](https://personalmba.com/amortization/)
+
+> The process os spreading the cost of a resource investment over the estimated useful life of that investment. Say you produce stuffed dogs and want to buy a factory; let's assume the factory can produce 10 million units during its life. On a per-unit basis, that brings the cost per unit of the factory down to $10. If you sell every unity you make for $100, that's a healthy Profit Margin.
+
+> If you have a reliable estimate of how much it will cost and how much you can produce, Amortization helps you figure out whether or not investing large amounts of Capital makes sense. Amortization depends on an accurate prediction of useful life.
+
+pg 205 - [Sunk Costs](https://personalmba.com/sunk-cost/)
+
+Sunk costs are like quicksand and too much can get you into a dangerous position where you throw bad money after good.
+
+> Easy to understand conceptually but much harder to put into practice. When you sink years of work into a career you realize you don't want, it's tough to walk away. Don't pour concrete into a bottomless pit; walk away. 
+
+> *You never have to earn back money the same way to lost it*
+
+pg 205 - [Internal Controls](https://personalmba.com/internal-controls/)
+
+> Tracking financial and operations data (via SOPs) over time lets you identify patterns in your revenue, costs and Value Chain. These become useful for budgeting, supervising operations, compliance and preventing theft and fraud.
+
+> Every year, the [Risk Management Association](https://www.rmahq.org/) compiles a huge amount of data and makes it easy to discover what solvent businesses of various sizes spend on marketing, sales, operations and capital in a given period of time. Banks and investors rely on RMA data to determine whether or not a business they're examinging is typical.
+
+> Industry groups can also be a useful source of data. By comparing your business's data to that of other companies in your market, you can get a better picture of how well you're performing and where your business could use improvement.
