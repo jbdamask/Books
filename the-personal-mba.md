@@ -200,3 +200,36 @@ pg 221 - [Guiding Structure](https://personalmba.com/guiding-structure/)
 > Guiding Structure means the structure of your Environment is the largest determinant of your behavior. If you want to successfully change a behavior, *don't try to change the behavior directly*. Change the structure that influences or supports the behavior.
 
 > A great example is the "Sterile Cockpit Rule" that the FAA instituted in 1981. Most airline accidents happen below 10,000 feet; below 10,000 feet the only discussion permitted is about information directly related to the flight in progress. By eliminating distractions, accidents were reduced.
+
+pg 250 - [Novelty](https://personalmba.com/novelty/)
+
+> In *Brain Rules*, John Medina shares how he's able to keep the attention of his students effectively in classes that last more than an hour: he plans his class in modules that last no more than ten minutes. Each module starts with a **hook** - an interesting story or anecdote, followed by a brief explanation of the key concept. 
+ 
+This is what Sal Khan does with his Khan Academy videos
+
+### Working with yourself
+
+pg 257 - [Cognitive Switching Penalty](https://personalmba.com/cognitive-switching-penalty/)
+
+> Productive multitasking is a myth. Every time you swich the focus of your Attention from one subject to another, you incur the Cognitive Switching Penalty.
+
+Yea, welcome to my life
+
+> To avoid this, batch similar tasks. Paul Graham calls this his "Maker's Schedule/Manager's Schedule". If you're trying to create something, the worst thing you can do is try to fit creative tasks in between administrative tasks. The "Maker's Schedule" consists of large blocks of uninterrupted time; the "Manager's schedule" is broken up into many small chunks.
+
+pg 278 - [Counterfactual Simulation](https://personalmba.com/counterfactual-simulation/)
+
+> Think of this as applied imagination - you're conciously posing a "what if" or "what would happen if" question to your mind. Instead of waiting for your brain to simulate a potential course of action, this allows you to force your brain to run simulations
+
+> Can help discover hidden opportunities that you may have previously assumed weren't possible. When you run one, you assume the event or end state you're simulating is already true. By supplying your mind with an artificial destination, it will automatically start to fill in the blanks between points A and B.
+
+pg 287 - [Performance Load](https://personalmba.com/performance-load/)
+
+> In order to handle the unexpected, you must have unsheduled time to respond to new inputs. The default mind-set is that "downtime" is inefficient and wasteful. But this ignores the necessity of handling unexpected events, which always occur.
+
+This concept of idle time came out of Toyota and Eli Goldratt describes it really well in [The Goal](https://en.wikipedia.org/wiki/The_Goal)
+
+pg 290 - [Stress and Recovery](https://personalmba.com/stress-recovery/)
+
+Winston Churchill has a masterful quote on this. Basically he says the key element is Change. 
+> A man can wear out a particular part of his mind by continually using it. The tired parts of the mind can be rested and strengthened, not merely by rest, but by using other parts. It is not enough to merely switch off the lights which play upon the main and ordinary field of interest; a new field of interest must be illuminated. It is of no use saying to the tired mental muscles, "I will give you a good rest", "I will go for a long walk" or "I will lie down and think of nothing". The mind keeps busy just the same. If it has been weighing and measuring, it goes on weighing and measuring. if it has been worrying, it goes on worrying. It is only when new cells are called into activity, when new stars become the lords of the ascendant, that relief, repose, refreshment are afforded
