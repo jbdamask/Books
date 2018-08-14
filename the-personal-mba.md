@@ -2,7 +2,7 @@
 ## Josh Kaufman
 
 ## Opinon
-I quite liked this book. It provides standard a framework, concepts and jargon around something very large (business) field. Personally, I found the first half more useful than the second. 
+I quite liked this book. It provides standard a framework, concepts and jargon around something very large (business). Personally, I found the first half more useful than the second. 
 
 ## Points of note
 
