@@ -6,7 +6,7 @@ I quite liked this book. It provides standard a framework, concepts and jargon a
 
 ## Grade: B
 
-## Points of note
+### Points of note
 
 ### Value Creation
 
