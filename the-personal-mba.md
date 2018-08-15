@@ -232,4 +232,93 @@ This concept of idle time came out of Toyota and Eli Goldratt describes it reall
 pg 290 - [Stress and Recovery](https://personalmba.com/stress-recovery/)
 
 Winston Churchill has a masterful quote on this. Basically he says the key element is Change. 
-> A man can wear out a particular part of his mind by continually using it. The tired parts of the mind can be rested and strengthened, not merely by rest, but by using other parts. It is not enough to merely switch off the lights which play upon the main and ordinary field of interest; a new field of interest must be illuminated. It is of no use saying to the tired mental muscles, "I will give you a good rest", "I will go for a long walk" or "I will lie down and think of nothing". The mind keeps busy just the same. If it has been weighing and measuring, it goes on weighing and measuring. if it has been worrying, it goes on worrying. It is only when new cells are called into activity, when new stars become the lords of the ascendant, that relief, repose, refreshment are afforded
+> A man can wear out a particular part of his mind by continually using it. The tired parts of the mind can be rested and strengthened, not merely by rest, but by using other parts. It is not enough to merely switch off the lights which play upon the main and ordinary field of interest; a new field of interest must be illuminated. It is of no use saying to the tired mental muscles, "I will give you a good rest", "I will go for a long walk" or "I will lie down and think of nothing". The mind keeps busy just the same. If it has been weighing and measuring, it goes on weighing and measuring. if it has been worrying, it goes on worrying. It is only when new cells are called into activity, when new stars become the lords of the ascendant, that relief, repose, refreshment are afforded> 
+
+pg 306 - [Limiting Belief](https://personalmba.com/limiting-belief/)
+
+> Limiting Belief can appear when you consider doing things that make you uncomfortable, like applying for a new job or selling something. Images of rejectino and disapproval start flashing through your mind, and your first impulse is to conclude "this won't work".
+
+> Here's a useful rule of thumb for these types of situations: make the other party tell you no. This is a **Habit** worth installing: you may believe you'll be turned down but make the other party say it
+ 
+### Working with others
+
+pg 311 - [Communication Overhead](https://personalmba.com/communication-overhead/)
+
+> Proportion of your time spent communicating with your team instead of getting productive work done. The more team members you have to work with, the more you have to communicate with them to coordinate action.
+
+> Eight symptoms of bureaucratic breakdown
+> 1. No one knows how or where decisions are made
+> 2. Too many tasks are started and not completed
+> 3. Nothing can be done without checking with a bunch of people
+> 4. No innovation or radical ideas
+> 5. Minor issues become magnified out of proportion
+> 6. The center battles for consistency and control against local/regional units
+> 7. The deadlines for work become more important that the quality of the work
+> 8. People react to inputs instead of using their own initiative
+ 
+This is similar to Spotify squads and Amazon's two-pizza teams
+
+pg 315 - [Safety](https://personalmba.com/safety/)
+
+Basically, [Don't be an asshole](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/)
+
+Way to communicate without provoking anger or defensiveness:
+> 1. Share the facts - Facts are less controversial than conclusions so lead with them
+> 2. Tell your story - Explain the situation for your point of view, taking care to avoid insulting or judging
+> 3. Ask for others' paths - Ask for their side of the situation, what they intended, and what they want
+> 4. Talk tentatively - Avoid conclusions, judgements and ultimatums
+> 5. Encourage testing - Make suggestions, ask for input, and discuss until you reach a productive and mutually satisfactory course of action.
+
+pg 335 - [Pygmalion Effect](https://personalmba.com/pygmalion-effect/)
+
+> People will rise to other people's expectations of them. If you don't expect much from the people youwork with, it's likely you won't inspire them to perform to the limits of their capabilities.
+
+> Dale Carnagie says "Give others a great reputation to live up to".
+
+> Paradox: Having high expectations will produce better results, but it also increases the probabliity that you'll be disappointed. If you're doing a formal assessment of someone's performance, remember to judge performance objectively and quantitatively.
+
+pg 339 - [Management](https://personalmba.com/management/)
+
+> Six principles:
+> 1. Recruit the smallest group who can accomplish what must be done quickly and with high quality.
+> 2. Clearly communicate the desired End Result, who is responsible for what, and the current status. Everyone must know the Commander's Intent of the project, the Reason Why it's important and must clearly know the specific parts of the project they're individually responsible for completing.
+> 3. Treat people with appreciation, courtesy and respect
+> 4. Create and Environment where everyone can be as productive as possible. Sheild your team from distractions and provide the best tools and equipment possible
+> 5. Refrain from unrealistic expectations regarding certainty and prediction
+> 6. Constantly measure what you're doing against a small set of KPIs to see if what you're doing is working
+
+### Analyzing Systems
+
+pg 367 - [Deconstruction](https://personalmba.com/deconstruction/)
+
+Lots of stuff about system deconstruction, looking at inputs and outputs to understand flow and keeping an eye on interdependencies. Also look at triggers (what makes something start) and endpoints (what makes it stop)
+
+pg 369 - [Key Performance Indicator](https://personalmba.com/key-performance-indicator/)
+
+You can measure anything but that won't get you anywhere. 
+> KPIs are measurements o the critical parts of a system. It's easy to get distracted; for example, a business' revenue looks important but it's not as important as profit. Watch out for Incentive-Caused Bias (like rating coders on lines of code)
+
+> Business-related KPIs are directly related to either the Five Parts of Every Business or Throughput. Example questions to figure these out:
+> 1. Value Creation: How quickly is the system creating value? what is the current level of Inflows?
+> 2. Marketing: How many people are paying attention to your offer? How many prospects are giving you permission to provide more information?
+> 3. Sales: How many prospects are becoming paying customers? What is the average customer's Lifetime Value?
+> 4. Value Delivery: How quickly can you serve each customer? What is your current returns or complaints rate?
+> 5. Finance: What is you profit margin? How much purchasing power do you have? Are you financially Sufficient?
+
+pg 379 - [Ratio](https://personalmba.com/ratio/)
+
+A ratio is a better measure than an absolute because it compares values. Examples:
+> 1. Return on Promotion
+> 2. Profit per Employee
+> 3. Closing ratio
+> Returns/Complaints ratio
+
+Lean Analytics espouses ratios, too. A related notion is the [One Metric That Matters](http://leananalyticsbook.com/one-metric-that-matters/) - "What's the most important metric in the business right now? The one that's the most broken" 
+
+### Improving Systems
+
+pg 394 - [Diminishing Returns](https://personalmba.com/diminishing-returns/)
+
+Four things to do with tasks: complete, delegate, defer or eliminate. 
+
+> Focus on doing a few simple things that will produce most of the results you're looking for, then call it a day
