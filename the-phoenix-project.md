@@ -7,7 +7,7 @@ Great book - I highlighted the shit out of my copy
 
 ## Points of note
 
-Characters (only those in these notes):
+Characters (only those in these notes):<br />
   Dick - CFO <br />
   Erik - Prospective member of Board of Directors. Bill’s mentor and a master of Lean Manufacturing and DevOps philosophy.<br />
   Bill - VP of IT Ops (formerly Director of Midrange Technology Operations)<br />
