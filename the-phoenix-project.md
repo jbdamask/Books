@@ -5,7 +5,7 @@ Great book - I highlighted the shit out of my copy
 
 ## Grade: A
 
-## Points of note
+### Points of note
 
 Characters (only those in these notes):<br />
   Dick - CFO <br />
