@@ -8,12 +8,12 @@ Great book - I highlighted the shit out of my copy
 ## Points of note
 
 Characters (only those in these notes):
-  Dick - CFO
-  Erik - Prospective member of Board of Directors. Bill’s mentor and a master of Lean Manufacturing and DevOps philosophy.
-  Bill - VP of IT Ops (formerly Director of Midrange Technology Operations)
-    Wes - Director of Distributed Technology Ops
-    Patty - Director of IT Service Support
-John - Chief Security Information Officer
+  Dick - CFO <br />
+  Erik - Prospective member of Board of Directors. Bill’s mentor and a master of Lean Manufacturing and DevOps philosophy.<br />
+  Bill - VP of IT Ops (formerly Director of Midrange Technology Operations)<br />
+    Wes - Director of Distributed Technology Ops<br />
+    Patty - Director of IT Service Support<br />
+John - Chief Security Information Officer<br />
 Brent - Technical guru. Everybody in the company goes to him to fix their problem
 
 Quote | Page 
