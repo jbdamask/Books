@@ -4,6 +4,8 @@
 ## Opinon
 I quite liked this book. It provides standard a framework, concepts and jargon around a very large topic. Personally, I found the first half more useful than the second. 
 
+## Grade - B
+
 ## Points of note
 
 ### Value Creation
