@@ -6,7 +6,7 @@ My personal technique to gain knowledge effectively is to:
 2. Mark text
 3. Transcribe to digital for future reference
 
-This is intentionally a cumbersome process because I need the repetition and use of different brain pathways to take in the information. The old adage for getting something to stick in your brain is to "read it, say it aloud, write it down". That was written before full-text indexes became a commodity. I've traded the writing part for typing. Interestingly, things don't stick in my brain as well when I type but there's more value (to me) to have searchable content. I trust that I forget everything anyway so this is a technique to extend my brain.
+This is intentionally a cumbersome process because I need the repetition and use of different brain pathways to take in the information. The old adage for getting something to stick in your brain is to "read it, say it aloud, write it down". That was written before full-text indexes became a commodity. For things where there's no added value in deriving the point from first principles I've traded the writing part for typing. Interestingly, things don't stick in my brain as well when I type but there's more value (to me) to have searchable content. I trust that I forget everything anyway so this is a technique to extend my brain. 
 
 I've been doing this for years and storing everything in Evernote. I'm gradually switching to GitHub because it's fun to share stuff.
 
