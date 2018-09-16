@@ -6,7 +6,9 @@ Powerful stuff in here. Fun to read but value comes from using is as a reference
 
 Print out the Summary and Table of Life and Work principles from the middle of the book and hang above your desk.
 
-Part I is interesting as it's about Ray. Pretty good life. Part II is my focus. Part III, while impressive, is more relevant to those with the responsibility of creating corporate culture. A CEO can probably ram these things through. Lots of the material is similar to what's practiced at Google, NetFlix, Amazon, etc but what I've come to recognize is that there are some things about culture that a group leader can control (e.g. how decisions are made within a group) and some they can only do with consensus and committments from other leaders (e.g. practice radical truth). That said, there's lots of good stuff in here that resonates with what I've learned in my career, e.g. idea meritocracies, focusing on the issue, being open, holding people accountable, etc
+Part I is interesting as it's about Ray. Pretty good life.<br />
+Part III, while impressive, is more relevant to those with the responsibility of creating corporate culture. A CEO can probably ram these things through. Lots of the material is similar to what's practiced at Google, NetFlix, Amazon, etc but what I've come to recognize is that there are some things about culture that a group leader can control (e.g. how decisions are made within a group) and some they can only do with consensus and committments from other leaders (e.g. practice radical truth). That said, there's lots of good stuff in here that resonates with what I've learned in my career, e.g. idea meritocracies, focusing on the issue, being open, holding people accountable, etc. <br />
+Part II is my favorite section of the book and what my notes focus on.
 
 ## Grade: B+
 
