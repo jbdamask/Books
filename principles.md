@@ -10,6 +10,8 @@ Part I is interesting as it's about Ray. Pretty good life.<br />
 Part III, while impressive, is more relevant to those with the responsibility of creating corporate culture. A CEO can probably ram these things through. Lots of the material is similar to what's practiced at Google, NetFlix, Amazon, etc but what I've come to recognize is that there are some things about culture that a group leader can control (e.g. how decisions are made within a group) and some they can only do with consensus and committments from other leaders (e.g. practice radical truth). That said, there's lots of good stuff in here that resonates with what I've learned in my career, e.g. idea meritocracies, focusing on the issue, being open, holding people accountable, etc. <br />
 Part II is my favorite section of the book and what my notes focus on.
 
+My favorite line from the book has to do with the power of rapid experimentation (total lean/agile thinking): **Nature improves without thinking**. Of course, Nature has a bit longer to experiment than I do.
+
 ## Grade: B+
 
 ## Points of note
