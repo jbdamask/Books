@@ -18,7 +18,6 @@ My favorite line from the book has to do with the power of rapid experimentation
 
 Quote | Page 
 --- | ---
-**PART II: LIFE PRINCIPLES**|132
 **1 Embrace reality and deal with it**|132
 Simply put, governance is the system of checks and balances ensuring that an organization will be stronger than whoever happens to be leading it at any one time.<br /> <br /> I had learned that it's wrong to assume either that a person in one role will be successful in another role or that the ways one person operates will work well for another. | 119
 Seeing things from the top down is the best way to understand ourselves | 139
