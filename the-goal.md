@@ -2,7 +2,7 @@
 ### Eli Goldratt
 
 ## Opinion
-Fantastic book on operations. Theory of Constraints is a powerful, intuative, methodology to control the flow of work through a complex system. The Phoenix Project is the IT version (another great book but this is the root).
+Fantastic book on operations. Theory of Constraints is a powerful, intuative, methodology to control the flow of work through a complex system. The Phoenix Project is a copy of this book from an IT perspective.
 
 ## Grade: A+
 
