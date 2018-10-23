@@ -6,6 +6,14 @@ Fantastic book on operations. Theory of Constraints is a powerful, intuative, me
 
 ## Grade: A+
 
+## Five focusing steps
+1. IDENTIFY the system's constraint (find the bottleneck)
+2. Decide how to EXPLOIT the systems's constraint (maximize it's use)
+3. SUBORDINATE everything else to the above decision (make sure everything else marches to the tune of the constraint)
+4. ELEVATE the system's constraint (offload the bottleneck wherever possible)
+5. If in the previous steps a constraint has been broken, go back to step 1
+
+
 ## Points of note
 
 Quote | Page 
@@ -49,6 +57,15 @@ According to the cost-accounting rules that everybody has used in the past, we'r
 (Alex is taking on a new job as divisional manager)<br/><br>Financial numbers only reveal a fraction of the picture. You have to find out what the people think is going on. What do they see as problems? Where do we stand vis-a-vis the clients?|pg 283
 (Alex needs to learn about the other companies he manages)<br/><br/>What are the techniques needed for management?|pg 283
 What are the first things I should do when I assume my new position?<br/>Meet the staff; do fact finding. And once these "facts" have been assembed then what?<br/><br/>(Alex draws colored shapes on the board to represent "facts")<br/>Ok, I hold a staff meeting and what do I find? Oh, here we find fact A (draws a red circle on the board). And here are three somewhat smaller circles. And here is a tiny one and there are two which are overlapping. Now I talk with another manager and he says Oh, that ciricle isn't as big as you've been led to believe. And now someone says rectabngle exist; now squares, now triangles. The board looks like a nightmare in technicolor<br/><br/>You know, it's worse than just wasting time producing usless, pompous reports. This overconcern about the 'proper way to arrange things' manifests itself in other harmful ways. The merry-go-round that we're all too familiar with; arranging the company according to product lines and then changing it according to functional capabilities. Deciding that the company is wasting too much money on duplicated efforts and thus moving to a more centralized mode. Ten years later, we want to encourage entrepreneurship and we move back to decentralization. How should we arrange and classify these facts?<br/><br/>Throw a dart. That really clarifies what we're dealing with here; the fact that we haven't got any idea of what we're doing. If we're just looking for some arbitrary order, then what's the point of putting so much effort in collecting so much data? This avenue of first collecting data, getting familiar with the facts, seems to lead of nowhere. It's nothing more than an exercise in futility.|pg 287
+What are we looking for? An arbitrary order that we superimpose externally on the facts, or are we trying to reveal an intrinsic order, an order that already exists?|pg 292
+Process of ongoing improvement<br/><br/>Every plant in the company has already launched at least five of those improvement projects. People have already developed allergies to the phrase. What process have we followed for the improvement projects? None|pg 299
+The weakest link determines the strength of a chain. To improve the strenth you need to find the weakest link; the bottleneck|pg 300
+Reading popular science books doesn't lead you directly to management techniques. But I've started to see something interesting. Physicists approach a subject differently; they don't start by collecting as much data as possible. On the contrary, the start with a phenomenon the raise a hypothesis: a speculation of a plausible cause for the existence of that fact. It's all based on one key relationship IF...THEN|pg 317
+(The team thinks the plant has wandering bottlenecks)<br/><br/>Now it's clear what's happening. The new orders have changed the balance. We took more orders, which by themselves didn't turn any resource into a new bottleneck, but they did drastically reduce the amount of spare capacity on the non-bottlenecks and we didn't compensate with increased inventory in front of the bottleneck.|pg 325
+Organizations are composed of more than one person which requires synchronized efforts. The contribution of any single person to the organization's purpose is strongly dependent upon the performance of others. Organizations should be regarded as chains. The more complex the organization, i.e. the more interdependencies between the various links, the smaller number of independent chains it's composed of|pg 332
+The real constraints were not the machines, they were the policies<br/><br/>How does one go about identifying the core problem, the one that is responsible for the existence of so many undesirable effects?|pg 334
+We are asking for the ability to answer three simple questions: What to change? What to change to? How to cause the change?<br/><br/>These are the most fundamental abilities on would expect from a manager.|pg 337
+
 
 
 
