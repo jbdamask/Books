@@ -3,9 +3,9 @@
 ### John Rossman
 
 ## Opinion
-Articulate and concise. Rossman offers short chapters and engaging, sometimes cringe-worthy, anecdotes to describe each principle. He's a good writer and conveys a lot in under 200 pgs.
+Articulate and concise. Rossman offers short chapters and engaging, sometimes cringe-worthy, anecdotes to describe each principle. He's a good writer and conveys  a lot in under 200 pgs.
 
-## Grade: A
+## Grade: B+
 
 
 
