@@ -26,7 +26,7 @@ _Interesting counter-example to lean product development:_ <br/><br/>The Look In
 If you're competitor-focused, you have to wait until there is a competitor doing something. Being customer-focused allows you to be more pioneering| pg 23
 __2 Take Ownership of Results__|
 When asking for a report on a failed project, all Jeff ever wanted to know was the following, "Here's what didn't work, why it didn't work, and how we're going to change"| pg 27
-You own your dependencies - At Amazon, one of your primary directives is to identify and tenaciously managed every potential business-derailing dependency you have. It is not okay to fail because of a breakdown of dependencies; that is a failure of leadership. You need rock-solid contracts, service level agreements and penalties in place. You can assume nothing| pg 28
+You own your dependencies - At Amazon, one of your primary directives is to identify and tenaciously manage every potential business-derailing dependency you have. It is not okay to fail because of a breakdown of dependencies; that is a failure of leadership. You need rock-solid contracts, service level agreements and penalties in place. You can assume nothing| pg 28
 ...Jeff broke bown the process of managing dependencies:<br/>1. Whenever possible, take over the dependencies so you don't have to rely on someone else<br/>2. If that is impossible, negotiate and manage unambiguous and clear commitments from others<br/>3. Create hedges wherever possible. For every dependency, devise a fallback plan - a redundancy in a supply chain, for example| pg 29
 
 
