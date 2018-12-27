@@ -42,6 +42,7 @@ Imitate the competition. In business, innovation is great - but it's clear that 
 __4 Leaders Are Right - A Lot__| 
 The culture of learning, growth and accountability would be impossible without a high premium on _clarity_ - ...goals...communication...metrics...and the use of those metrics| pg 51
 Great leaders like Bezos develop a strong, clear framework; then they constantly apply that framework and articulate it accurately to their team| pg 52
+Jeff also believes that successful leaders, when presented with new evidence and data, are able to adapt their perspective. Accordingly, he looks for people who are constantly revising their understanding and circling back on problems they thought they'd already solved. He also looks for leaders who can maintain a remarkably granular understanding their business through metrics, intensity and great program execution| pg 53
 
 
 
