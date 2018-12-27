@@ -28,7 +28,10 @@ __2 Take Ownership of Results__|
 When asking for a report on a failed project, all Jeff ever wanted to know was the following, "Here's what didn't work, why it didn't work, and how we're going to change"| pg 27
 You own your dependencies - At Amazon, one of your primary directives is to identify and tenaciously manage every potential business-derailing dependency you have. It is not okay to fail because of a breakdown of dependencies; that is a failure of leadership. You need rock-solid contracts, service level agreements and penalties in place. You can assume nothing| pg 28
 ...Jeff broke bown the process of managing dependencies:<br/>1. Whenever possible, take over the dependencies so you don't have to rely on someone else<br/>2. If that is impossible, negotiate and manage unambiguous and clear commitments from others<br/>3. Create hedges wherever possible. For every dependency, devise a fallback plan - a redundancy in a supply chain, for example| pg 29
-
+__3 Invent and Simplify__|
+Jeff Bezos understands the same thing Steve Jobs did: the best design is the simplest| pg 33
+Your job description is never limited to simply running things| pg 34
+Automation, algorithms and technology architechture are the engines behind game-changing platform businesses<br/><br/>Jeff Bezo's 2011 shareholder letter entitled "The Power of Invention" is a manifesto about the undeniable impact of data science and computer science: "The most radical and transformative inventions are often those that empower others to unleash their creativity...This is the power of self-service platforms...I am emphasizing the self-service nature of these platforms because it's important for a reason I think is somewhat non-obivous: _even well-meaning gatekeepers slow innovation_"| pg 35
 
 
 
